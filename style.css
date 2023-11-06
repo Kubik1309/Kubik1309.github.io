@@ -1,13 +1,18 @@
-body{
+body
+{
 background-color:bisque;
 }
-p{
+p
+
+{
 color:blue;
 font-weight:900;
 
 
 
-
-
+}
+div
+{
+max-width: 750px;
 
 }
