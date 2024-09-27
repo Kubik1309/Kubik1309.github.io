@@ -13,6 +13,7 @@ font-weight:1500;
 }
 div
 {
-max-width: 750px;
+  max-width: 750px;
+  margin:auto;
 
 }
