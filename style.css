@@ -1,19 +1,18 @@
 body
 {
-background-color:white;
+background-color:bisque;
 }
 p
 
 {
-color:black;
-font-weight:1500;
+color:blue;
+font-weight:900;
 
 
 
 }
 div
 {
-  max-width: 750px;
-  margin:auto;
+max-width: 750px;
 
 }
